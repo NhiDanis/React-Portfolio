@@ -9,7 +9,7 @@ class Home extends Component {
             <Grid className="home-grid" style={{height:'100%'}}>
                 <div className="banner">
                     <h1><strong>Hello, Welcome to My Portfolio!!</strong></h1>
-                    <h3><bold>I'm a Full-Stack Developer </bold> </h3>
+                     <h3><bold>I'm a Full-Stack Developer </bold> </h3>
                     <h5>HTML/CSS | Bootstrap | JavaScript | React </h5>
 
                  </div>
