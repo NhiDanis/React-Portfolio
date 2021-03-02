@@ -8,8 +8,9 @@ class Home extends Component {
         <div style={{width:'100%', margin:'auto', height: '100%'}}>
             <Grid className="home-grid" style={{height:'100%'}}>
                 <div className="banner">
-                    <h1>Hello, Welcome to My Portfolio!!</h1>
-                    <h3> I'm a Full-Stack Developer </h3>
+                    <h1><strong>Hello, Welcome to My Portfolio!!</strong></h1>
+                    <h3><bold>I'm a Full-Stack Developer </bold> </h3>
+                    <h5>HTML/CSS | Bootstrap | JavaScript | React </h5>
 
                  </div>
 

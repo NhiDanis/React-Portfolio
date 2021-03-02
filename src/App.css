@@ -20,8 +20,9 @@ background: linear-gradient(to left, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+/
     margin: auto;
 }
 
-.banner h1, h3{
+.banner h1, h3, h5{
     text-align: center;
+    color: rgba(0, 0, 0, 0.767);
 }
  
 Footer {
