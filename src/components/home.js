@@ -1,6 +1,6 @@
 // eslint-disable-next-line
 import React, { Component } from 'react';
-import { Cell, Grid } from 'react-mdl';
+import { Grid } from 'react-mdl';
 
 class Home extends Component {
     render() {

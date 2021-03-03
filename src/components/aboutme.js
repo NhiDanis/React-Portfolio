@@ -13,10 +13,9 @@ class About extends Component {
                 
                 <Cell col={3} >
                     <h2>Nhi Danis</h2>
-                    <img style={{height: '350px', width:'300px'}} src={myImage} />
+                    <img style={{height: '350px', width:'300px'}} src={myImage} alt="jpg" />
 
                 </Cell>
-                
 
                 <Cell className="content" col={3}>
                     <h3>About Me</h3>
@@ -25,10 +24,10 @@ class About extends Component {
                     <p> I'm currently studying coding at UC Berkeley extension coding bootcamp. I love to bring the beauty of technology from the moderm world to people. Hopefully, I can make the world become better with what I learn.</p>
                     
                 </Cell>
-            
-                
 
             </Grid>
+
+            
         </div>
     );
     };
