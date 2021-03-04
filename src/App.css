@@ -57,8 +57,10 @@ Footer {
 
 .about-grid p{
     font-size: 20px;
-    word-spacing: 5px;
     padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 2px;
+    color: black;
 }
 
 .social-media {

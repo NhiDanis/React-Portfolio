@@ -18,7 +18,7 @@ class Portfolio extends Component {
             <Grid col={6} className= "portfolio-grid">
                 
                 <Cell col={3}>
-                <Card shadow={0} style={{width: '400px', margin: 'auto', height: '400px'}}>
+                <Card shadow={0} style={{width: '350px', margin: 'auto', height: '350px'}}>
                     <img src={Img1} />
                     <CardTitle style={{color: 'black', height: '100px'}}>Yoda-Me-Astrology</CardTitle>
 
@@ -34,7 +34,7 @@ class Portfolio extends Component {
                 </Cell>
 
                 <Cell col={3}>
-                <Card shadow={0} style={{width: '400px', margin: 'auto', height: '400px'}}>
+                <Card shadow={0} style={{width: '350px', margin: 'auto', height: '350px'}}>
                     <img src={Img2} />
                     <CardTitle style={{color: 'black', height: '100px'}}>Eat-Da-Burger</CardTitle>
 
@@ -50,7 +50,7 @@ class Portfolio extends Component {
                 </Cell>
 
                 <Cell col={3}>
-                <Card shadow={0} style={{width: '400px', margin: 'auto', height: '400px'}}>
+                <Card shadow={0} style={{width: '350px', margin: 'auto', height: '350px'}}>
                     <img src={Img3} />
                     <CardTitle style={{color: 'black', height: '100px'}}>Employee-Directory</CardTitle>
 
@@ -70,7 +70,7 @@ class Portfolio extends Component {
 
             <Grid col={6} className= "portfolio-grid" style={{height:'100%'}}>
                 <Cell col={3}>
-                <Card shadow={0} style={{width: '400px',margin:'auto', height: '400px'}}>
+                <Card shadow={0} style={{width: '350px',margin:'auto', height: '350px'}}>
                     <img src={Img4} />
                     <CardTitle style={{color: 'black', height: '100px'}}>Password-Generator</CardTitle>
 
@@ -86,7 +86,7 @@ class Portfolio extends Component {
                 </Cell>
 
                 <Cell col={3}>
-                <Card shadow={0} style={{width: '400px', margin: 'auto', height: '400px'}}>
+                <Card shadow={0} style={{width: '350px', margin: 'auto', height: '350px'}}>
                     <img src={Img5} />
                     <CardTitle style={{color: 'black', height: '100px'}}>U-Connect</CardTitle>
 
@@ -102,7 +102,7 @@ class Portfolio extends Component {
                 </Cell>
 
                 <Cell col={3}>
-                <Card shadow={0} style={{width: '400px', margin: 'auto', height: '400px'}}>
+                <Card shadow={0} style={{width: '350px', margin: 'auto', height: '350px'}}>
                     <img src={Img6} />
                     <CardTitle style={{color: 'black', height: '100px'}}>Weather-Dashboard</CardTitle>
 
