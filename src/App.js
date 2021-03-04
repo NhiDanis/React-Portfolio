@@ -4,6 +4,7 @@ import './App.css';
 import { Layout, Header, Navigation, Drawer, Content, Footer, FooterSection, FooterLinkList} from 'react-mdl';
 import Main from './components/main';
 import { Link } from 'react-router-dom';
+import Logo from "./image/profile.png";
 
 class App extends Component {
   render() {
@@ -14,7 +15,6 @@ class App extends Component {
             <Navigation>
                 <Link to="/about">About</Link >
                 <Link to="/portfolio">Portfolio</Link >
-                <Link to="/contact">Contact</Link >
                 
                 
             </Navigation>
@@ -23,7 +23,6 @@ class App extends Component {
             <Navigation>
                 <Link to="/about">About</Link >
                 <Link to="/portfolio">Portfolio</Link >
-                <Link to="/contact">Contact</Link >
                 
             </Navigation>
         </Drawer>
@@ -34,8 +33,8 @@ class App extends Component {
 <Footer size="mega">
     <FooterSection type="middle" >
         <FooterLinkList>
-            <a href="#">Copy&copy;</a>
-            <a href="#">Privacy & Terms</a>
+            <p>Copy&copy;</p>
+            <p >Privacy & Terms</p>
         </FooterLinkList>
     </FooterSection>
 </Footer>
