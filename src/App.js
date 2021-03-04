@@ -13,6 +13,7 @@ class App extends Component {
     <Layout>
         <Header className="header" title="ND" scroll>
             <Navigation>
+                <Link to="/">Home</Link >
                 <Link to="/about">About</Link >
                 <Link to="/portfolio">Portfolio</Link >
                 
@@ -21,6 +22,7 @@ class App extends Component {
         </Header>
         <Drawer title="Menu">
             <Navigation>
+                <Link to="/">Home</Link >
                 <Link to="/about">About</Link >
                 <Link to="/portfolio">Portfolio</Link >
                 
