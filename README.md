@@ -26,20 +26,24 @@
 
 ## Screen Shots:
 
+<img width="2048" alt="Screen Shot 2021-03-03 at 7 23 40 PM (2)" src="https://user-images.githubusercontent.com/68761490/109908010-5d58d080-7c58-11eb-9bb2-e950d502ab39.png">
 
 
 ## BuiltWith:
 
-* 
+* HTML5/CSS
+* React
 
 ## Installation:
 
 `git clone URL`
-
+`npm install`
  `npm start`
 
 
 ## Npm:
+* React-MDL 
+* React-router-dom
 
 
 
