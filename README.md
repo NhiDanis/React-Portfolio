@@ -26,7 +26,7 @@
 
 ## Screen Shots:
 
-<img width="2048" alt="Screen Shot 2021-03-03 at 7 23 40 PM (2)" src="https://user-images.githubusercontent.com/68761490/109908010-5d58d080-7c58-11eb-9bb2-e950d502ab39.png">
+<img width="2048" alt="Screen Shot 2021-03-03 at 7 55 42 PM (2)" src="https://user-images.githubusercontent.com/68761490/109909226-92feb900-7c5a-11eb-9ea7-6060ed910685.png">
 
 
 ## BuiltWith:
@@ -44,6 +44,9 @@
 ## Npm:
 * React-MDL 
 * React-router-dom
+
+## Live App:
+[Link](https://react-portfolio-nd.herokuapp.com/)
 
 
 
